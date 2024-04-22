@@ -136,7 +136,7 @@ understand WoW change% for Revenue metric as an example:
         DIVIDE(revcw,revpw,0)-1
 
  
- # Report Snapshot (Power BI DESKTOP)
+ # Snapshot(Power BI )
 
  
 ![db](https://github.com/DusharaJayarat/Power-BI-project/assets/161212159/925b02bf-e512-4a2d-83c2-bbacf0537b11)
